@@ -8,7 +8,7 @@ Hi! <img src=https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0
 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kl1p&theme=tokyonight&layout=&langs_count=5">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kl1ppel&theme=tokyonight&layout=&langs_count=5">
 
 <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
