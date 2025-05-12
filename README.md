@@ -9,7 +9,7 @@ _Gerente de Negócios | Pentester | Analista de Segurança_
 
 ---
 
-## 🛠 Ferramentas Essenciais
+## 🛠 Ferramentas
 
 <kbd><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"></kbd>
 <kbd><img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=white"></kbd>
