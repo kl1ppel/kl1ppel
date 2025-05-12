@@ -1,5 +1,5 @@
 # 👋 Olá, sou **Gabriel Klippel**  
-_Pentester | Analista de Segurança | Automação_
+_Gerente de Negócios | Pentester | Analista de Segurança_
 
 ![Hack The Box](http://www.hackthebox.eu/badge/image/979004)
 
